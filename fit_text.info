@@ -1,0 +1,5 @@
+name = Fit Text
+description = jQuery plugin for font-sizes flexible.
+core = 7.x
+scripts[] = jquery.fittext.js
+configure = admin/config/media/fittext
